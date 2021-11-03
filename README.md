@@ -14,7 +14,10 @@ My name is Lukas and I am a aspiring software developer. Here are some quick fac
 - 📫 Reach me via:  mail, LinkedIn
 - ⚡ Fun fact: I'm member of a local chess club and also maintain our website [sc-ostertal.de](http://sc-ostertal.de) ♟️ 
  
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyold&show_icons=true&theme=dark)
+](https://github.com/yoyold)
+
+
   <!---💬 Ask me about ...
   - Coffee or Tea when coding:
 - Listening to music while coding?
