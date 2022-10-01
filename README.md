@@ -2,11 +2,11 @@
 
 My name is Lukas and I am a aspiring software developer. Here are some quick facts about me:
 
- - 🎓 Currently a developer trainee writing hotel management software.
--  🔭 I am currently working on our POS system
--  📅 Previously worked on our PMS-team
+ - 🎓 Currently a developer writing hotel management software while aquiring my bachelors degree.
+-  🔭 I am currently working on our POS system.
+-  📅 Previously worked on our PMS-team.
 -  🌱 Currently learning Delphi desktop application development under windows.
--  👨‍💻 No current side projects; Preparing for final exams
+-  👨‍💻 No current side projects; But looking for cool and motivating ideas.
 <!---    -  🔎 Wish to learn soon: Web Development, as it is and will be one of the most important technologies around. -->
    <!--- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with: JavaScript, or else I might drown in Frameworks. -->
