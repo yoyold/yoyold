@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-My name is Lukas and I am a aspiring software developer. Here are some quick facts about me:
--  🔭 I am currently working on our POS system.
--  📅 Previously worked on our PMS-team.
+My name is Lukas and I am a aspiring software developer from 🇩🇪. Here are some quick facts about me:
+-  🔭 I am currently working in an international team for pos ("point-of-sale") systems.
+-  📅 Previously worked on a PMS ("property management system") for a year.
 -  🌱 Currently learning: Java
-<!---    -  🔎 Wish to learn soon: Web Development, as it is and will be one of the most important technologies around. -->
-   <!--- - 👯 I’m looking to collaborate on ...-->
-<!-- - 🤔 I’m looking for help with: JavaScript, or else I might drown in Frameworks. -->
-- 📫 Feel free to reach out
- 
+
+📫 Feel free to reach out
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyold&show_icons=true&theme=dark)
 ](https://github.com/yoyold)
 
