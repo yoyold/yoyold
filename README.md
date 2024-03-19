@@ -2,12 +2,14 @@
 
 My name is Lukas and I am a aspiring software developer from 🇩🇪. Here are some quick facts about me:
 -  🔭 I am currently working in an international team for pos ("point-of-sale") systems.
--  📅 Previously worked on a PMS ("property management system") for a year.
--  🌱 Currently learning: Java
+-  🌱 Currently learning: Java ♨️ and attending [Computer Science for Artificial Intelligence](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence) on edX by Harvard University.
+</br>
+Reminder: My personal projects are still very much work in progress, but I'm happy if you have a look at them.
+Bugs are my own of course 🫣
 
-📫 Feel free to reach out
+</br>📫 Feel free to reach out to me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyold&show_icons=true&theme=dark)
+</br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyold&show_icons=true&theme=dark)
 ](https://github.com/yoyold)
 
 
