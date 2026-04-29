@@ -44,13 +44,13 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🏛️ [**sc-ostertal**](https://github.com/yoyold/sc-ostertal) | Website for my local chess club | HTML / CSS |
-| ♟️ [**mychessdb**](https://github.com/yoyold/mychessdb) | Personal chess database & game viewer | HTML / JS |
+| 🏛️ [**sc-ostertal**](https://github.com/yoyold/sc-ostertal) | Website for my local chess club | HTML / CSS / JS |
+| ♟️ [**mychessdb**](https://github.com/yoyold/mychessdb) | Personal chess database & game viewer | HTML / CSS / JS |
 | 📐 [**ChessDiagramEditor**](https://github.com/yoyold/ChessDiagramEditor) | Board editor for exporting chess positions and creating diagrams | C++ |
 | 🎮 [**JCMoveGuessR**](https://github.com/yoyold/JCMoveGuessR) | Terminal-based chess survival game | Java |
 | 🃏 [**MtgTracker**](https://github.com/yoyold/MtgTracker) | Gamestate tracker for Magic: the Gathering (life, counters, etc.) | CSS / Web |
 | 🖼️ [**WallpaperBox**](https://github.com/yoyold/WallpaperBox) | Wallpaper management tool | Python |
-| 🎨 [**vcl-theme-picker**](https://github.com/yoyold/vcl-theme-picker) | Runtime theme switcher for any Delphi VCL application *(archived)* | Pascal |
+| 🃏 [**Ygo-ladder-list**](https://github.com/yoyold/YgoLadderList) | A ladder table for games | HTML / CSS / JS |
 
 ---
 
